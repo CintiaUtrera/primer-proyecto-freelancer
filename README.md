@@ -1,6 +1,6 @@
 # Portfolio freelancer
 
-Este es mi primer proyecto de prueba de pagina web
+Este es mi primer proyecto como pagina web
 
 ## Notas 
 
